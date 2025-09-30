@@ -1,6 +1,6 @@
 # 👋 Hi there, I am Supritham Singh Bhatia
 
-I'm Supritham Singh Bhatia, a motivated B.Tech student at Manipal University Jaipur, currently maintaining a strong 9.01 CGPA. My dual focus lies in Full Stack Web Development—where I specialize in the Next.js/React/Node.js stack—and Data Analytics. I'm a quick learner driven by a passion for solving real-world problems, a commitment demonstrated by my experience as a T&TEAD Intern at Deloitte, where I built a full-stack ticketing system, and my achievements as a Top 15 Finalist in the Deloitte Hacksplosion. I strive to combine robust system development with data-driven intelligence in all my work.
+I'm Supritham Singh Bhatia, a motivated B.Tech student at Manipal University Jaipur, currently maintaining a strong 9.01 CGPA. My dual focus lies in Full Stack Web Development—where I specialize in the Next.js/React/Node.js stack—and Data Analytics. I'm a quick learner driven by a passion for solving real-world problems, a commitment demonstrated by my experience as a T&T EAD Intern at Deloitte, where I built a full-stack ticketing system, and my achievements as a Top 15 Finalist in the Deloitte Hacksplosion. I strive to combine robust system development with data-driven intelligence in all my work.
 
 ## 🚀 GitHub:
 <div align="center">
